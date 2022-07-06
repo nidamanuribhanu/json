@@ -1,0 +1,136 @@
+{
+    "product1":1,
+    "type_of_cloth":"slimfit",
+    "color":"black",
+    "price":899,
+    "rating":4.5,
+    "size":[{
+        "size_of_shirt":"m"
+    },
+    {
+        "size_of_shirt":"L" 
+
+     },
+    {
+        "size_of_shirt":"xl"
+    },
+     {
+        "size_of_shirt":"xxl"
+     }
+    ],
+    "product1":2,
+    "type_of_cloth":"slimfit",
+    "color":"black",
+    "price":899,
+    "rating":4.5,
+    "size":[{
+        "size_of_shirt":"m"
+    },
+    {
+        "size_of_shirt":"L" 
+
+     },
+    {
+        "size_of_shirt":"xl"
+    },
+     {
+        "size_of_shirt":"xxl"
+     }
+    ],
+    "product1":3,
+    "type_of_cloth":"slimfit",
+    "color":"black",
+    "price":899,
+    "rating":4.5,
+    "size":[{
+        "size_of_shirt":"m"
+    },
+    {
+        "size_of_shirt":"L" 
+
+     },
+    {
+        "size_of_shirt":"xl"
+    },
+     {
+        "size_of_shirt":"xxl"
+     }
+    ],
+    "product1":4,
+    "type_of_cloth":"slimfit",
+    "color":"black",
+    "price":899,
+    "rating":4.5,
+    "size":[{
+        "size_of_shirt":"m"
+    },
+    {
+        "size_of_shirt":"L" 
+
+     },
+    {
+        "size_of_shirt":"xl"
+    },
+     {
+        "size_of_shirt":"xxl"
+     }
+    ],
+    "product1":5,
+    "type_of_cloth":"slimfit",
+    "color":"black",
+    "price":899,
+    "rating":4.5,
+    "size":[{
+        "size_of_shirt":"m"
+    },
+    {
+        "size_of_shirt":"L" 
+
+     },
+    {
+        "size_of_shirt":"xl"
+    },
+     {
+        "size_of_shirt":"xxl"
+     }
+    ],
+    "product1":6,
+    "type_of_cloth":"slimfit",
+    "color":"black",
+    "price":899,
+    "rating":4.5,
+    "size":[{
+        "size_of_shirt":"m"
+    },
+    {
+        "size_of_shirt":"L" 
+
+     },
+    {
+        "size_of_shirt":"xl"
+    },
+     {
+        "size_of_shirt":"xxl"
+     }
+    ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
